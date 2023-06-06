@@ -1,3 +1,3 @@
-# intrusion-detection-system
+# Intrusion-Detection-System
 
 Network foundation assaults are right now the most genuine dangers to arrange and data security. Since standard firewall procedures can't give absolute security against interruption notwithstanding persistently rising criminal operations in networks, interruption discovery (ID) as a part of protection inside and out is turning out to be progressively significant. The most typical method of identifying events occurring in a PC system or network and decomposing them for interruption alerts (IDS) is interruption location framework. In this project, various methodologies like Decision tree algorithm, Randomforest algorithm, Xgboost algorithm etc. are used to figure an exact model for interruption recognition framework. In a comparison of decision tree, random forest, and decision tree and random forest with AdaBoost, the suggested models with the best accuracy are those.
